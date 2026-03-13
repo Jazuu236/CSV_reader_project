@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/jaspe/Documents/CSV_reader_project/cmake-build-debug",
-  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\CSV_reader_project.dir\\CSV_reader.c.obj -c C:\\Users\\jaspe\\Documents\\CSV_reader_project\\CSV_reader.c",
-  "file": "C:/Users/jaspe/Documents/CSV_reader_project/CSV_reader.c",
-  "output": "C:/Users/jaspe/Documents/CSV_reader_project/cmake-build-debug/CMakeFiles/CSV_reader_project.dir/CSV_reader.c.obj"
-}
-]

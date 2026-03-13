@@ -1,3 +1,0 @@
-C:/Users/jaspe/Documents/CSV_reader_project/cmake-build-debug/CMakeFiles/CSV_reader_project.dir
-C:/Users/jaspe/Documents/CSV_reader_project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jaspe/Documents/CSV_reader_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

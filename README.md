@@ -1,3 +1,3 @@
 # CSV_reader_project
 
-The first independent project for my Embedded Systems major.
+The first independent project in C for my Embedded IoT Systems major. 

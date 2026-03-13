@@ -1,0 +1,9 @@
+Temperature,Room
+20.0,TestRoom
+20.0,TestRoom
+20.0abc,TestRoom
+Kaksikymmentä,TestRoom
+1e9999,TestRoom
+20.0.5,TestRoom
+20.0 ,TestRoom
+20.0,TestRoom
